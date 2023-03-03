@@ -4,7 +4,7 @@ This Python script monitors the Steam Workshop directory for new mod folders cre
 Installation
 1. Clone this repository or download the script.
 2. Install Python 3.x or higher.
-3. Install the xml.etree library by running pip install xml.etree.ElementTree in your command prompt or terminal.
+3. Install the xml.etree library by running ```pip install xml.etree.ElementTree``` in your command prompt or terminal.
 
 Usage
 1. Set the src_dir variable to the directory where RimWorld creates mod folders in the Steam Workshop folder.
